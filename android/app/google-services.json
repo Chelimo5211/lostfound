@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256498985227",
+    "project_id": "limo-9bdff",
+    "storage_bucket": "limo-9bdff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256498985227:android:b41ffe87927086bc731a0e",
+        "android_client_info": {
+          "package_name": "com.example.limo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOXisQiLcvQygI9070tfABl8xDnTqvIgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
