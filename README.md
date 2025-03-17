@@ -1,6 +1,6 @@
 # limo
 
-A new Flutter project.
+Lost and found project.
 
 ## Getting Started
 
